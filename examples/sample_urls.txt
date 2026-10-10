@@ -1,0 +1,3 @@
+https://jsonplaceholder.typicode.com/todos/1
+https://jsonplaceholder.typicode.com/users/1
+https://httpstat.us/503
